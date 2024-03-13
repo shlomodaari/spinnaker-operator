@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: spinnaker-operator
+  annotations:
+    github.com/project-slug: shlomodaari/spinnaker-operator
+spec:
+  type: other
+  lifecycle: unknown
+  owner: slacknotification
